@@ -1,0 +1,7 @@
+[
+  { "name": "Jamie Alvarez", "position": "QA Engineer", "level": "Junior" },
+  { "name": "Reese Nakamura", "position": "Technical Writer", "level": "Intern" },
+  { "name": "Drew Okafor", "position": "Platform Engineer", "level": "Senior" },
+  { "name": "Sky Patel", "position": "Security Engineer", "level": "Senior" },
+  { "name": "Blake Washington", "position": "Support Engineer", "level": "Junior" }
+]
